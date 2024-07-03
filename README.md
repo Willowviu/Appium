@@ -1,7 +1,7 @@
 # Appium
 
 Setting capabilities exclusively designed to invoke Android apps
-On a mobile emulator, how to: 
+on a mobile emulator, how to: 
   - Drag & drop
   - Long press
   - Scroll
